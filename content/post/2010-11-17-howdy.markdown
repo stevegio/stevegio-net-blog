@@ -1,0 +1,13 @@
+---
+author: stevegio
+comments: true
+date: 2010-11-17 08:40:42+00:00
+layout: post
+slug: howdy
+title: Howdy
+wordpress_id: 7
+categories:
+- announcements
+---
+
+OK. Moving here for a while. Stay tuned.

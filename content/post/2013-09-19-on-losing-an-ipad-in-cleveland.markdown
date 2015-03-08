@@ -1,0 +1,33 @@
+---
+author: stevegio
+comments: true
+date: 2013-09-19 14:33:44+00:00
+layout: post
+slug: on-losing-an-ipad-in-cleveland
+title: On Losing an iPad in Cleveland
+wordpress_id: 357
+---
+
+I woke up in a hotel room in Cleveland Ohio yesterday morning. Mid way through my morning routine I discovered my iPad 3 was missing. It wasn't in my bag but it only took a fraction of second for me to realize where it was. The night before I had flown to Cleveland from Chicago on a late flight. Minutes before I had dozed off I had placed the iPad in the seat back pocket in front of me.  It happened to me once before but in that case someone from the airline called me thirty or so minutes after I left the airport to tell me I left it behind.  I received no such call this time.
+
+I had configured the "Find My Device" feature of iCloud on this iPad which has helped me locate it a few times when I've misplaced it or left it at the office.  So I thought I would just login to iCloud and see if my iPad was at the airport locked up in some lost and found cabinet with dozens of other similar devices, scarves, gloves, pens, sunglasses, etc. I was flying back home that night so I figured I could just pick it up on my way out of Cleveland. I clicked on the link to show the map with the location of my iPad. There it was indicated on the map as a bright green dot but it wasn't at the airport. _Crap._ It was at a residential address in a suburb of Cleveland, a bad suburb of Cleveland. _Shit! _It looks like someone involved with turning that airplane around last night decided to take it home.
+
+I called the airline.  Explained the situation.  I filed a missing property report. Gave them the current location of my iPad. While they were sympathetic they advised me to call the Cleveland police. At that point a bunch of thoughts entered my mind.  _Maybe the person brought it home because lost and found was closed?  Maybe they were going to bring it back to the airport when their shift started again? If I get the cops involved would I be making someone's already difficult life way more difficult?_ _Damn it! Who's dumb enough to steal an iOS device and leave it on! _Since my iPad had a lock screen the person who took it couldn't just get in and wipe it. I decided to use the "Lost Mode" which allows you to send a message to the device. I wrote, "Hi, I want my iPad back. I won't press charges." and I included my phone number.  Within minutes someone shut the device off.  The green dot on the map turned into a grey one.
+
+I called the police and filed a report. They asked me all the details. They also took the address that I had obtained from iCloud. The officer who took the report mentioned that this has happened before and they didn't have any luck getting the device back. He said he would get back to me. I felt bad involving the police. They probably had way more important stuff to deal with than this kind of petty crime.  But they took all the information and said they would follow up.  I thought that would be the last I would ever talk to them again.
+
+I was in town with one of my account execs to meet with a customer so I was in meetings most of the day. It was in the back of my mind the whole time.
+
+About an hour later, during a customer meeting, my phone rang. It was a Cleveland number.  Since I was with the client I let it go to voicemail. During a break I called the number back.  The person who owned the phone had set up a "ring back tone" which is basically a song that plays instead of the normal ringing sound.  The song the person set up was the theme song from Hawaii Five-O by The Ventures. I laughed out loud because I had a pretty good idea this was the number of an officer from the Cleveland PD.  Turns out I was correct.  After he picked up my call, he said they had looked up the address, talked to the airline, and confirmed that a cleaning contractor lived at that address. He said he didn't have a warrant or anything but he was going to go over and "knock on the door" and call me when he knew anything.  My hopes of getting my iPad back were lifting at the same time my thoughts about the person who took it were sinking. They were in deep do-do.  At this point even if they brought it back to the airport lost and found the airline and the police knew they had walked off with it.  This person was going to lose a job over this at a minimum.
+
+Fifteen minutes later my phone rang again. I couldn't take the call so I called back when we got to a break in the customer meeting.  I called back, listened to the the Hawaii Five-O theme, and then the CPD officer picked up. He said he had no luck getting anyone to answer the door but he had a feeling someone was in the house.  They probably knew they were in trouble.  He said he would try again later. I went back to my meeting.
+
+Our meeting with the customer was over and we had a lot of time to kill before our flights home, so we decided to take a quick tour of the Rock and Roll Hall of Fame.  As we were buying the tickets I noticed I missed a call.  It was the CPD officer.  I called his number back, listened to the Hawaii Five-O theme, and the officer picked up. He told me he had recovered the iPad from the person who stole it. I was blown away.  I thanked him profusely. He told me he was going to drop it off with the CPD at the airport. I would need to fill out some paperwork but I could pick it up on my way out of Cleveland.
+
+I consider myself lucky. This wasn't a cheap iPad. It was a 64GB model with wifi and cellular.  It would not have been cheap to replace.  I did have iCloud "Find My iPad" turned on but a more competent thief would have turn the device off, making it impossible to locate, and just DFU restored the device back to factory settings. (iOS 7 would have eliminated that but I did not upgrade that device. It was still running iOS 6.) Finally, the CPD did a great job connecting the dots and retrieving the device. I am very grateful.  As for the person that took it, they have probably lost their job over this. I feel bad but taking that iPad was dumb. It would have been so much easier to have done the right thing. Hopefully they won't do it again.
+
+Oh... one other odd thing happened. Toward the end of our tour of the Rock and Roll Hall of Fame we entered the Hall of Inductees.  There is a film loop of all the Inductees accepting their awards, performing and giving interviews playing in the hall. When we walked in the inductees from 2008 were up on the screen.  One of the bands inducted that year was [The Ventures](http://rockhall.com/inductees/the-ventures/).  Life is weird.
+
+ 
+
+ 
